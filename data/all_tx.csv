@@ -1,0 +1,7 @@
+owner,event,amount,other
+Alice,DEPOSIT,20.0,
+Alice,WITHDRAW,10.0,
+Alice,WITHDRAW,40.0,
+Alice,TRANSFER_OUT,40.0,Bob
+Bob,DEPOSIT,40.0,
+Bob,TRANSFER_IN,40.0,Alice
